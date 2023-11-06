@@ -22,11 +22,13 @@
   },
   "dependencies": {
     "@adonisjs/auth": "^8.2.3",
+    "@adonisjs/bouncer": "^2.3.0",
     "@adonisjs/core": "^5.9.0",
     "@adonisjs/lucid": "^18.4.2",
     "@adonisjs/repl": "^3.1.11",
     "@types/decimal.js": "^7.4.0",
     "adonis-acl": "^1.1.1",
+    "cpy": "^11.0.0",
     "decimal.js": "^10.4.3",
     "luxon": "^3.4.3",
     "pg": "^8.11.3",
